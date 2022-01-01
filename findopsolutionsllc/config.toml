@@ -52,7 +52,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "consulting ..."
+      logoText = "finding solutions ..."
       logoHomeLink = "/"
     # or
     #
@@ -60,15 +60,19 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
-  #[[menu.main]]
-  #  identifier = "blog"
-  #  name       = "Blog"
-  #  url        = "/posts"
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/about"
-  #[[menu.main]]
-  #  identifier = "publications"
-  #  name       = "Publications"
-  #  url        = "/pubs"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
+  [[menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "/publications"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
