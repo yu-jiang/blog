@@ -14,7 +14,7 @@ I have a strong publication track record in academia, including a few first-auth
 
 ### Industry
 
-I also have 7 years of experiences working in industry. I worked full-time at [MathWorks](https://www.mathworks.com), [ClearMotion](https://www.clearmotion.com), and [ISEE AI](https://www.isee.ai). In addition, I have also worked on a good number of consulting projects related to controls in robotics and autonomous driving for my clients around the world. See [Projects](...) for a list of projects I worked on.
+I also have 8+ years of experiences working in industry. I worked full-time at [MathWorks](https://www.mathworks.com), [ClearMotion](https://www.clearmotion.com), and [ISEE AI](https://www.isee.ai). In addition, I have also worked on a good number of consulting projects related to controls in robotics and autonomous driving for my clients around the world. See [Projects](...) for a list of projects I worked on.
 
 
 ## Consulting Services
@@ -22,7 +22,7 @@ Findop Solutions LLC provides the following technical consulting services:
 
 * Training on Simulink/Simscape modeling and model-based-design
 * Training on applied control theory, optimization, and data analysis
-* Prototyping control algorithms (e.g., PID, LQR, Adaptive, Robust, Learning-based)
+* Prototyping control algorithms (e.g., PID, LQR, Adaptive, Robust, Learning-based) for various applications
 * Review planning and control architecture and strategies
 * Literature review / patent research on planning and control related inventions
 
