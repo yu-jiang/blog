@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Finding the optimal solution"
+  homeSubtitle = "A Technical Consulting Firm Founded by Yu Jiang."
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -23,6 +23,16 @@ paginate     = 10
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/yu-jiang/"
+[[params.social]]  
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/yujiangphd/"
+[[params.social]]  
+  name = "googlescholar"
+  url = "https://scholar.google.com/citations?user=QYanTRsAAAAJ&hl=en"
 
 [taxonomies]
     category = "blog"
