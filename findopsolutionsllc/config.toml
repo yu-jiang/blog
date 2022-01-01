@@ -11,7 +11,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A Technical Consulting Firm Founded by Yu Jiang."
+  homeSubtitle = "A Technical Consulting Firm Founded by Yu Jiang, PhD"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -33,6 +33,10 @@ paginate     = 10
 [[params.social]]  
   name = "googlescholar"
   url = "https://scholar.google.com/citations?user=QYanTRsAAAAJ&hl=en"
+[[params.social]]
+  name = "email"
+  url = "mailto:findopxyz@gmail.com"
+
 
 [taxonomies]
     category = "blog"
@@ -48,7 +52,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "solving a complicate problem ..."
+      logoText = "consulting ..."
       logoHomeLink = "/"
     # or
     #
