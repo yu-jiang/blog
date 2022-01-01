@@ -21,7 +21,7 @@ I have 8+ years of experiences working in industry. I was the core developer of 
 Findop Solutions LLC provides technical consulting services on
 
 * Simulink/Simscape modeling and model-based-design
-* Identifying the right math from control theory, optimization, and/or data sciences for specific engineering applications
+* Helping you identify the right tools from control theory, optimization, and/or data sciences for specific engineering applications
 * Prototyping control algorithms 
 (e.g., PID, LQR, Adaptive, Robust, Learning-based) for various applications (e.g., ACC, steering control)
 * Reviewing planning and control architecture and algorithms design
