@@ -17,7 +17,7 @@ I have a strong publication track record in academia, including a few first-auth
 
 ### Industry
 
-I have 8+ years of experiences working in industry. I was the core developer of Simuink Control Design at [MathWorks](https://www.mathworks.com). I worked as a seniosr controls engineer and become a principal scientist at [ClearMotion](https://www.clearmotion.com). I was the tech lead at [ISEE AI](https://www.isee.ai) where I started and grew the controls team. In addition, I have also worked on a good number of consulting projects related to controls in robotics and autonomous driving for my clients around the world. See [Projects](Projects) for a list of projects I worked on.
+I have 8+ years of experiences working in industry. I was the core developer of Simuink Control Design at [MathWorks](https://www.mathworks.com). I worked as a senior controls engineer and become a principal scientist at [ClearMotion](https://www.clearmotion.com). I was the tech lead at [ISEE AI](https://www.isee.ai) where I started and grew the controls team. In addition, I have also worked on a good number of consulting projects related to controls in robotics and autonomous driving for my clients around the world. See [Projects](Projects) for a list of projects I worked on.
 
 
 ## Consulting Services
