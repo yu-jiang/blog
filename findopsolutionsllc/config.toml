@@ -52,7 +52,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "finding solutions ..."
+      logoText = "u = controller(y)"
       logoHomeLink = "/"
     # or
     #
@@ -64,6 +64,10 @@ paginate     = 10
     identifier = "about"
     name       = "About"
     url        = "/about"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/cv"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
