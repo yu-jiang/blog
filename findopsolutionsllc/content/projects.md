@@ -11,7 +11,7 @@ This was the major cross-team R&D project I participated at MathWorks. The clien
 ## Truck-trailer planning and control
 As the tech lead in controls at ISEE AI, I prototyped the first version of control systems (speed regulation, steering, and gear shifting) for autonomous yard trucks. I also designed the first interface between planner and controller. See [ISEE AI's official website](https://www.isee.ai) for more details.
 
-(Note: I left ISEE AI in April 2020. There is no non-compete restrictions.)
+(Note: I left ISEE AI in April 2020. I am not under any non-compete restrictions.)
 
 ## Preview Suspension Control
 This has been my major focus at Clearmotion. We collected road surface data and use that for feedforward control of active suspension control. See [The RoadMotion Project](https://www.clearmotion.com/roadmotion/) for more details.
@@ -20,7 +20,7 @@ This has been my major focus at Clearmotion. We collected road surface data and 
 The client is making a certain type of vehicles that can distribute individual torques to different wheels. I helped with formulating it into an optimazation problem to achieve optimal torque vectoring and implemented a real-time solver for it.
 
 ## ACC Controller Design for OTR Trucks
-The client is making electrical over-the-road trucks, and the scope of the consulting work is to prototype the first version of a adaptive cruise controller from scratches.
+The client is making electrical over-the-road trucks, and the scope of the consulting work is to prototype the first version of a adaptive cruise controller through iterations between simulation and analyzing vehicle testing data.
 
 ## Simscape modeling and MBD design
 The client is making excavator-like heavy equipment for mining purpose. The work is to provide training and guidance on simscape modeling on the hydraulic cylindar and on simscape multibody. Also, training on model-based-design workflow with speedgoat is provided.
