@@ -3,7 +3,7 @@ title: "Projects"
 date: 2022-01-01T15:35:50-05:00
 draft: false
 ---
-Here is list of projects I worked on. For the sake of confidentiality, I will only provide publicly avaiable information and will hide the names of my clients.
+Here is list of projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
 
 ## Simulink operating point search
 This was the major cross-team R&D project I participated at MathWorks. The client makes backhoe machine and needed enhanced feature in Simulink control design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features. See the two new options ```graddescent-proj``` and ```lsqnonlin-proj``` in [MathWorks Documentation](https://www.mathworks.com/help/slcontrol/ug/findopoptions.html)
