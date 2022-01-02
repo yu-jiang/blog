@@ -1,9 +1,9 @@
 ---
-title: "Projects"
+title: "Selected Projects"
 date: 2022-01-01T15:35:50-05:00
 draft: false
 ---
-Here is list of projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
+Here is list of selected projects I worked on. For the sake of confidentiality, I will provide only the minimum information.
 
 ## Operating point search on a Simscape Model of a Backhoe
 This was the major cross-team application project I participated at MathWorks. The client makes backhoe machines and needed enhanced feature in Simulink Control Design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features. See the two new optimization solver options ```graddescent-proj``` and ```lsqnonlin-proj``` in [MathWorks Documentation](https://www.mathworks.com/help/slcontrol/ug/findopoptions.html)
