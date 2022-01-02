@@ -24,8 +24,8 @@ Findop Solutions LLC provides technical consulting services on
 * Prototyping control algorithms 
 (e.g., PID, LQR, Adaptive, Robust, Learning-based) for various applications (e.g., ACC, steering control)
 * Reviewing planning and control architecture and algorithms design
-* Literature review / patent research on autonomous driving and robotics related inventions
 * Simulink/Simscape modeling and model-based-design
+* Literature review / patent research on autonomous driving and robotics related inventions
 
 (Note that due to my current engagement with ClearMotion, I will not be able to work on things related to **active vehicle suspension systems**)
 
