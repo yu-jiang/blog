@@ -65,14 +65,14 @@ lastModDisplay = "Modified:"
     identifier = "about"
     name       = "About"
     url        = "/about"
- # [[menu.main]]
- #   identifier = "cv"
- #   name       = "CV"
- #   url        = "/cv"
-#  [[menu.main]]
-#    identifier = "projects"
-#   name       = "Projects"
-#    url        = "/projects"
+# [[menu.main]]
+#   identifier = "cv"
+#   name       = "CV"
+#   url        = "/cv"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
 #  [[menu.main]]
 #    identifier = "publications"
 #    name       = "Publications"
