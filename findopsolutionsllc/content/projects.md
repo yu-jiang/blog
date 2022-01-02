@@ -8,12 +8,12 @@ Here is list of projects I worked on. For the sake of confidentiality, I will pr
 ## Operating point search on a Simscape Model of a Backhoe
 This was the major cross-team R&D project I participated at MathWorks. The client makes backhoe machine and needed enhanced feature in Simulink control design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features. See the two new options ```graddescent-proj``` and ```lsqnonlin-proj``` in [MathWorks Documentation](https://www.mathworks.com/help/slcontrol/ug/findopoptions.html)
 
-## Truck-trailer planning and control
+## Low-Speed Truck-trailer planning and control
 As the tech lead in controls at ISEE AI, I prototyped the first version of control systems (speed regulation, steering, and gear shifting) for autonomous yard trucks. I also designed the first interface between planner and controller. See [ISEE AI's official website](https://www.isee.ai) for more details.
 
 (Note: I left ISEE AI in April 2020. I am not under any non-compete restrictions.)
 
-## Preview Suspension Control
+## Preview Suspension Control (RoadMotion)
 This has been my major focus at Clearmotion. We collected road surface data and use that for feedforward control of active suspension control. See [The RoadMotion Project](https://www.clearmotion.com/roadmotion/) for more details.
 
 ## Torque vectoring
