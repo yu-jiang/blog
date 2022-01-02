@@ -17,7 +17,7 @@ As the tech lead in controls at ISEE AI, I prototyped the first version of contr
 This has been my major focus at Clearmotion. We collected road surface data and use that for feedforward control of active suspension control. See [The RoadMotion Project](https://www.clearmotion.com/roadmotion/) for more details.
 
 ## Torque vectoring
-The client is making a certain type of vehicles that can distribute individual torques to different wheels. I helped formulated an optimazation problem to achieve optimal torque vectoring and implemented a real-time solver for it.
+The client is making a certain type of vehicles that can distribute individual torques to different wheels. I helped with formulating it into an optimazation problem to achieve optimal torque vectoring and implemented a real-time solver for it.
 
 ## ACC Controller Design for OTR Trucks
 The client is making electrical over-the-road trucks, and the scope of the consulting work is to prototype the first version of a adaptive cruise controller from scratches.
