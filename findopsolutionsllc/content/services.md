@@ -31,11 +31,11 @@ As the tech lead in controls at ISEE AI, I prototyped the first version of contr
 ### Preview suspension control (RoadMotion)
 This has been my major focus at ClearMotion. We collected road surface data and use that for proactive active suspension control. See [The RoadMotion Project](https://www.clearmotion.com/roadmotion/) for more details.
 
-### Torque vectoring optimiazation and control
+### Torque vectoring optimization and control
 The client is making a certain type of vehicles that can distribute individual torques to different wheels. I helped with formulating it into an optimazation problem to achieve optimal torque vectoring and implemented a real-time solver for it.
 
 ### ACC controller design for OTR trucks
 The client is making electrical over-the-road trucks, and the scope of the consulting work is to prototype the first version of an adaptive cruise controller through iterations between simulation and analyzing vehicle testing data.
 
 ### Simscape modeling and MBD design
-The client is making excavator-like heavy equipment for mining purpose. The work is to provide training and guidance on simscape modeling on the hydraulic cylindar and on simscape multibody. Also, training on model-based-design workflow with speedgoat is provided.
+The client is making excavator-like heavy equipment for mining purpose. The work is to provide training, guidance, and trouble-shooting on simscape modeling regarding the hydraulic and mechanical components of the system. Also, training on model-based-design workflow with [Speedgoat](https://www.speedgoat.com) is provided.
