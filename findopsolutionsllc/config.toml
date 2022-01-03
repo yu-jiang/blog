@@ -53,7 +53,7 @@ lastModDisplay = "Modified:"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "$ findop ..."
+      logoText = "$ Findop ..."
       logoHomeLink = "/"
     # or
     #
