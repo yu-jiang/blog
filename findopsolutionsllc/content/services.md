@@ -16,7 +16,7 @@ Findop Solutions LLC provides technical consulting services on
 
 ### Note
 * Due to my current engagement with ClearMotion, I will not be able to work on things related to **active vehicle suspension systems**
-* In many of the consulting cases,  I provide information and know-hows based-off publicly available knowledges (e.g., from scientific publications, published patents, or open-source projects).
+* In many of the consulting cases,  I provide information and know-hows based on publicly available knowledges (e.g., from scientific publications, published patents, or open-source projects).
 
 
 ## Sample Projects
