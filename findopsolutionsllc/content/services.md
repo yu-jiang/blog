@@ -14,10 +14,7 @@ Findop Solutions LLC provides technical consulting services on
 * Fundamentals on Simulink/Simscape modeling and model-based-design
 * Literature review / patent research on autonomous driving and robotics related inventions
 
-### Note
-* Due to my current engagement with ClearMotion, I will not be able to work on things related to **active vehicle suspension systems**
-* In many of the consulting cases,  I provide information and know-hows based on publicly available knowledges (e.g., from scientific publications, published patents, or open-source projects).
-
+Note that due to my current engagement with ClearMotion, I will not be able to work on things related to **active vehicle suspension systems**
 
 ## Sample Projects
 Here is list of selected projects I worked on for both my full-time employers and clients. For the sake of confidentiality, I will provide only the minimum information.
