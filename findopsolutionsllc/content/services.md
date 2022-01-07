@@ -20,12 +20,12 @@ Note that due to my current engagement with ClearMotion, I will not be able to w
 Here is list of selected projects I worked on for both my full-time employers and clients. For the sake of confidentiality, I will provide only the minimum information.
 
 ### Operating point search on a Simscape model of a backhoe
-This was the major cross-team application project I participated at MathWorks. The client makes backhoe machines and needed enhanced feature in Simulink Control Design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features. See the two new optimization solver options ```graddescent-proj``` and ```lsqnonlin-proj``` in [MathWorks Documentation](https://www.mathworks.com/help/slcontrol/ug/findopoptions.html)
+This was the major cross-team application project I participated at MathWorks. The client makes backhoe machines and needed enhanced feature in Simulink Control Design to effectively trim the model (i.e., find the operating point). I led the work on reformulating the optimization problem in model trimming and developed the enhanced features. See [MathWorks Example: Steady-State Simulation with Projection-Based Trim Optimizer](https://www.mathworks.com/help/slcontrol/ug/steady-state-simulation-with-projection-based-trim-optimizer.html) that illustrates this feature.
 
 ### Low-speed truck-trailer planning and control
-As the tech lead in controls at ISEE AI, I prototyped the first version of control systems (speed regulation, steering, and gear shifting) for autonomous yard trucks. I also designed the first interface between planner and controller. See [ISEE AI's official website](https://www.isee.ai) for more details.
+As the tech lead in controls at ISEE AI, I prototyped the first version of control systems (speed regulation, steering, and gear shifting) for autonomous yard trucks. I also designed the first interface between planner and controller. See [ISEE AI's official website](https://www.isee.ai) for video footages of the company's yard trucks operating in the real world.
 
-(Note: I left ISEE AI in April 2020. I am not under any non-compete restrictions.)
+(Note: I left ISEE AI in April 2020. I am not subject to any non-compete restrictions.)
 
 ### Preview suspension control (RoadMotion)
 This has been my major focus at ClearMotion. We collected road surface data and use that for proactive active suspension control. See [The RoadMotion Project](https://www.clearmotion.com/roadmotion/) for more details.
