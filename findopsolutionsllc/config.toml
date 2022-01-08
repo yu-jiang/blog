@@ -11,6 +11,9 @@ lastModDisplay = "Modified:"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
+  # Google Analytics 4
+  googleAnalyticsID = "G-H79ZG57R8K"
+
   # Subtitle for home
   homeSubtitle = "A Technical Consulting Firm Founded by Yu Jiang, PhD"
 
