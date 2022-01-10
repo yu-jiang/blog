@@ -8,6 +8,4 @@ tags:
   - general
 ---
 
-Findop Solutions is open for business.
-
 ![Boston Fireworks](/img/findoplogo.png)

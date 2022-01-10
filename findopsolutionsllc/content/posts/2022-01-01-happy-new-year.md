@@ -8,7 +8,6 @@ tags:
   - general
 ---
 
-Happy New Year!
 
 ![Boston Fireworks](/img/2022NewYearsEveBoston.jpg)
 
