@@ -20,5 +20,4 @@ I have 8+ years of experiences working in industry. I was the core developer of 
 Please feel free to reach out and thanks for stopping by!
 
 * Email: findopxyz@gmail.com
-* Phone: 1.339.234.9530
 * Mailing address: Findop Solutions LLC, P.O.Box 553, Needham, MA 02494
